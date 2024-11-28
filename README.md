@@ -1,2 +1,2 @@
 # cybersecurity
-spring 2023
+spring 2023 high school class
